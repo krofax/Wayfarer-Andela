@@ -4,15 +4,26 @@
   "description": "Wayfarer is a public bus transportation booking server backend Api",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel server.js --out-dir build"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/krofax/Wayfarer-Andela-.git"
   },
+  "author": "Blessing Krofegha",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/krofax/Wayfarer-Andela-.git/issues"
   },
-  "author": "Blessing Krofegha",
-  "license": "ISC"
+  "homepage": "https://github.com/krofax/Wayfarer-Andela-.git/#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-watch": "^7.0.0"
+  }
 }
