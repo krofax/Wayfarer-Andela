@@ -1,5 +1,5 @@
-[![Coverage Status](https://coveralls.io/repos/github/krofax/Wayfarer-Andela-/badge.svg?branch=master)](https://coveralls.io/github/krofax/Wayfarer-Andela-?branch=master)
-[![Build Status](https://travis-ci.org/krofax/Wayfarer-Andela-.svg?branch=master)](https://travis-ci.org/krofax/Wayfarer-Andela-)
+[![Coverage Status](https://coveralls.io/repos/github/krofax/Wayfarer-Andela/badge.svg?branch=master)](https://coveralls.io/github/krofax/Wayfarer-Andela?branch=master)
+[![Build Status](https://travis-ci.org/krofax/Wayfarer-Andela.svg?branch=master)](https://travis-ci.org/krofax/Wayfarer-Andela)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 # WayFarer
