@@ -8,7 +8,7 @@
 ### Installation
 To install this application,
 
-  1. Git clone this repository https://github.com/krofax/Wayfarer-Andela-.git
+  1. Git clone this repository https://github.com/krofax/Wayfarer-Andela.git
   2. Change your directory cd wayfarer
   3. Install all dependencies using npm install
   4. Create .env file which will be used to load environment variables see sample in .env.example file in the project
@@ -59,9 +59,9 @@ To install this application,
 
 ### Links
 
-  1. Project homepage: https://github.com/krofax/Wayfarer-Andela-.git
+  1. Project homepage: https://github.com/krofax/Wayfarer-Andela.git
   2. Repository: https://github.com/krofax/Wayfarer-Andela-.git
-  3. Issue tracker: https://github.com/krofax/Wayfarer-Andela-.git/issues
+  3. Issue tracker: https://github.com/krofax/Wayfarer-Andela.git/issues
         * In case of sensitive bugs like security vulnerabilities, please contact bkrofegha@gmail.com directly instead of using issue tracker. We value your effort to improve the security and privacy of this project!  
 
 ### Licensing
