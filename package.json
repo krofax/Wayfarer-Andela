@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/krofax/Wayfarer-Andela-.git"
+    "url": "git+https://github.com/krofax/Wayfarer-Andela.git"
   },
   "author": "Blessing Krofegha",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/krofax/Wayfarer-Andela-.git/issues"
+    "url": "https://github.com/krofax/Wayfarer-Andela.git/issues"
   },
-  "homepage": "https://github.com/krofax/Wayfarer-Andela-.git/#readme",
+  "homepage": "https://github.com/krofax/Wayfarer-Andela.git/#readme",
   "dependencies": {
     "express": "^4.17.1",
     "moment": "^2.24.0",
