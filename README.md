@@ -1,6 +1,6 @@
 [![Coverage Status](https://coveralls.io/repos/github/krofax/Wayfarer-Andela-/badge.svg?branch=master)](https://coveralls.io/github/krofax/Wayfarer-Andela-?branch=master)
 [![Build Status](https://travis-ci.org/krofax/Wayfarer-Andela-.svg?branch=master)](https://travis-ci.org/krofax/Wayfarer-Andela-)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 # WayFarer
  WayFarer is a public bus transportation booking server. Where Clients book tickets for their trips, can see all their bookings and have the right to cancel any booking they do not want to use again. it also has an admin permission for viewing all trips, users, cancel trips,
